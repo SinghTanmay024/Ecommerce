@@ -43,5 +43,5 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo-name/ecommerce-backend.git
+   git clone https://github.com/your-repo-name/ecommerce-backend.git](https://github.com/SinghTanmay024/Ecommerce.git
    cd ecommerce-backend
