@@ -45,3 +45,15 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-repo-name/ecommerce-backend.git](https://github.com/SinghTanmay024/Ecommerce.git
    cd ecommerce-backend
+
+2. Update Application.properties file.
+
+3. Build and run the application:
+   ```bash
+   mvn spring-boot:run
+5. Access the APIs at:
+   ```bash
+   http://localhost:8080
+   
+
+   
